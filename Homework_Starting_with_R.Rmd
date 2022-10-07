@@ -1,0 +1,98 @@
+---
+title: "Homework 3 starting with R"
+author: "Nikita"
+date: "2022-09-01"
+output: html_document
+---
+# Instructions: #
+For this assignment, you need to answer a couple questions with
+code and then take a screenshot of your working environment.
+
+Submit the solutions including the URL to the screenshot in a doc/pdf to
+Brightspace.
+
+## 1) ## 
+**Use R to figure out how many elements in the vector below are greater than 2 and then tell me what their sum (of the larger than 2 elements) is.**
+
+```{r, defining vector and cleaning up, eval=TRUE}
+#defining a vector with cleaned up data
+rooms <- c(1, 2, 4, 5, 1, 3, 1, NA, 3, 1, 3, 2, 1, NA, 1, 8, 3, 1, 4, NA, 1, 3, 1, 2, 1, 7, 1, 9, 3, NA)
+rooms[!is.na(rooms)]
+rooms_clean <- rooms[!is.na(rooms)]
+ 
+```
+
+```{r, defining and printing new vector with elemtents greater than 2, eval=TRUE}
+#defining and printing the new vector containing only valuers greater than 2
+rooms_over_2 <- rooms_clean[rooms_clean > 2]
+rooms_over_2
+```
+
+```{r, sum of elements greater than 2, eval=TRUE}
+#sum of the elements larger than two
+length(rooms_over_2)
+```
+
+## 2) ##
+**What type of data is in the 'rooms' vector?**  
+*The rooms vector is an atomic numeric vector: it contains integers, although the NA are characters, and by that had to be omitted*
+
+## 3) ##
+**Submit the following image to Github:**  
+Inside your R Project (.Rproj) install the 'tidyverse' package and use the download.file() and read_csv() function to read the SAFI_clean.csv dataset into your R project as 'interviews' digitalobject (see instructions in https://datacarpentry.org/r-socialsci/setup.html and 'Starting with Data' section).
+Take a screenshot of your RStudio interface showing
+* a) the line of code you used to create the object *
+* b) the 'interviews' object in the Environment * 
+* c) the file structure of your R project in the bottom right "Files" pane. '
+
+```{r load tidyverse, eval=TRUE, echo=TRUE}
+library(tidyverse)
+```
+
+
+**a) the line of code you used to create the object,**
+```{r, creating an interviews object from file, eval=TRUE, echo=TRUE}
+interviews <- read_csv("../../data/SAFI_clean.csv", na = "NULL")
+```
+
+**b) the 'interviews' object in the Environment**
+```{r the interview object in the envronment, eval=TRUE, echo=TRUE}
+interviews
+```
+*to view the object in a separate tab in the workspace*
+```{r, in order to view the interview in a different tab, eval=TRUE, echo=TRUE}
+view(interviews)
+```
+
+**c) the file structure of your R project in the bottom right "Files" pane.**
+Save the screenshot as an image and put it in your AUID_lastname_firstname repository inside our Github organisation (github.com/Digital-Methods-HASS) or equivalent. Place here the URL leading to the screenshot in your repository.
+*please note that the 'data' folder is inside the HOMEWORK folder, due to the Danish_monarchs.csv file being used both in this assignment and the next*
+https://github.com/Digital-Methods-HASS/201906799_Myrting_Nikita/blob/dc730e8cf8b6fd58318ab678daa81fd669dde536/Homework_3_Rstudio_working-environment.png
+
+##4) Challenge: If you managed to create your own Danish king dataset, use it. If not, you the one attached to this assignment (it might need to be cleaned up a bit). Load the dataset into R as a tibble. Calculate the mean() and median() duration of rule over time and find the three monarchs ruling the longest. How many days did they rule (accounting for transition year?)
+
+```{r loading packages, eval=TRUE, echo=FALSE}
+library(tibble)
+library(dplyr)
+```
+```{r reading the dataset and viewing it as a tiblle, eval=TRUE, echo=TRUE}
+danish_monarchs <- read_csv2("../../data/Danish_monarchs.csv")
+danish_monarchs <- na.omit(danish_monarchs)
+as_tibble(danish_monarchs)
+```
+
+```{r calculating the mean of years_reign, eval=TRUE, include=TRUE}
+mean(danish_monarchs$years_reign)
+```
+
+```{r calculating the median of years_reign, eval=TRUE, include=TRUE}
+median(danish_monarchs$years_reign)
+```
+
+
+```{r ordering the data after years_reign, from highest to lowest, eval=TRUE, echo=TRUE}
+top_monarchs <- danish_monarchs [order(danish_monarchs$years_reign, decreasing = TRUE),]
+#I am stuck, I have created a new data_frame, and the data has been ordered fro mhighest to lowest, but I do not know how to make it ONLY contain these three
+
+```
+
