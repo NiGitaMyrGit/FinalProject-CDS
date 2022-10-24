@@ -1,0 +1,433 @@
+    1  $ defaults write com.apple.screencapture disable-shadow -bool TRUE
+    2  killall SystemUIServer
+    3  $ defaults write com.apple.screencapture disable-shadow -bool TRUE
+    4  killall SystemUIServer
+    5  $ defaults write com.apple.screencapture disable-shadow-bool TRUE
+    6  $defaults write com.apple.screencapture disable-shadow -bool TRUE
+    7  killall System
+    8  $ defaults write com.apple.screencapture disable-shadow -bool TRUE
+    9  killall SystemUIServer
+   10  $ defaults write com.apple.screencapture disable-shadow -bool TRUE
+   11  defaults write com.apple.screencapture disable-shadow -bool TRUE
+   12  killall SystemUIServer
+   13  Emacs
+   14  Emacs
+   15  Emacs
+   16  emacs
+   17  Emacs
+   18  telnet towel.blinkenlights.nl
+   19  telnet towel.blinkenlights.nl
+   20  telnet towel.blinkenlights.nl
+   21  telnet towel.blinkenlights.n
+   22  telnet towel.blinkenlights.nltelnet towel.blinkenlights.nl
+   23  telnet towel.blinkenlights.nl
+   24  telnet towel.blinkenlights.nl
+   25  towel.blinkenlights.nl
+   26  defaults write com.apple.dock autohide-delay -float 0
+   27  killall Dock
+   28  $ sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "Back again, aren't we?"
+   29  sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "Back again, aren't we?"
+   30  Say hello there
+   31  say you are beuatiful
+   32  Say this is a tect i'm typing withoiy looking
+   33  say this is a text I'm typing without looking
+   34  say this is a text i, tupinf without lookinf
+   35  emacs
+   36  emacs
+   37  emacs
+   38  emacs
+   39  emacs
+   40  emacs
+   41  emacs
+   42  emacs
+   43  emacs
+   44  emacs
+   45  emacs
+   46  emacs
+   47  emacs
+   48  emacs
+   49  emacs
+   50  emacs
+   51  emacs
+   52  time cat
+   53  emacs
+   54  emacs
+   55  emac
+   56  emacs
+   57  emacs
+   58  emacs
+   59  emacs
+   60  emacs
+   61  emacs
+   62  emacs
+   63  Library/Keyboard Layouts
+   64  Library/keyboard
+   65  Library/ cd~/Documents
+   66  is
+   67  emacs.
+   68  emacs. 
+   69  emacs.
+   70  emacs.
+   71  emacs
+   72  emacs
+   73  /Volumes/STORE\ N\ GO/Pictures/iPod\ Photo\ Cache/Photo\ Database ; exit;
+   74  python
+   75  /Applications/Python\ 3.10/Install\ Certificates.command ; exit;
+   76  python
+   77  python
+   78  Python 3
+   79  /Applications/Python\ 3.10/Update\ Shell\ Profile.command ; exit;
+   80  python
+   81  /Applications/Python\ 3.10/Install\ Certificates.command ; exit;
+   82  /Applications/Python\ 3.10/Install\ Certificates.command ; exit;
+   83  python3
+   84  python3
+   85  python3
+   86  python3
+   87  pylangacq
+   88  $ pip install --upgrade pylangacq
+   89  $ pip install --upgrade pylangacq
+   90  $ pip easy_install pylangacq
+   91  /Applications/Python\ 3.10/Install\ Certificates.command ; exit;
+   92  python3.10
+   93  python --version
+   94  python3 --version
+   95  conda install -c conda-forge ghostscript
+   96  conda install -c conda-forge tesseract
+   97  pip install ocrmypdf
+   98  ls
+   99  cd Desktop
+  100  ls
+  101  cd /Users/Nikita/Desktop/OCR_workshop-main 
+  102  ls
+  103  ocrmypdf
+  104  ocrmypdf -h
+  105  ocrmypdf straffeloven1930.pdf straffeloven1930_ocr.pdf
+  106  ocrmypdf
+  107  ocrmypdf -l dan straffeloven1930.pdf output2.pdf
+  108  ocrmypdf -l dan -f output2.pdf output3.pdf
+  109  oxrmypdf
+  110  ocrmypdf
+  111  ocrmypdf --sidecar tekst.txt straffeloven1930.pdf output4.pdf
+  112  ocrmypdf -l dan --sidecar tekst.txt straffeloven1930.pdf output4.pdf
+  113  cd /Users/Nikita/Desktop/Lingvistik/1\ semester/Understanding\ Linguistics/Articles 
+  114  ocrmypdf Comrie\ 1981.pdf Comrie1981ocr.pdf
+  115  cd /Users/Nikita/Desktop/OCR_workshop-main 
+  116  ocrmypdf
+  117  ocrmypdf l- dan --rotate-pages --rotate-pages-threshold 0.01 straffeloven1930liggende.pdf liggendeoutput.pdf
+  118  ocrmypdf -l dan --rotate-pages --rotate-pages-threshold 0.01 straffeloven1930liggende.pdf liggendeoutput.pdf
+  119  cd /Users/Nikita/Desktop/Lingvistik/1\ semester/Anvendt\ lingvistik/artikler 
+  120  ocrmypdf
+  121  ocrmypdf -l dan Grønnum\ 2003\ Why\ are\ Danes.pdf GrønnumDanesOCR.pdf
+  122  ocrmypdf -l dan --output-type pdf Grønnum\ 2003\ Why\ are\ Danes.pdf GrønnumOCR.pdf
+  123  cd Desktop
+  124  /Users/Nikita/Desktop/Nikita\ handleplan.pdf 
+  125  ocrmypdf
+  126  ocrmypdf Nikita\ handleplan.pdf NikitahandleplanOCR.pdf
+  127  ocrmypdf -l dan -f Nikita\ handleplan.pdf NikitahandleplanOCR.pdf
+  128  cd
+  129  cd desktop
+  130  cd/Users/Nikita/Desktop/Lingvistik/4\ semester/Sprog\ gennem\ tiden/Literature/2\)\ 8\:2\ Sound\ change/Hock\ \(1991\).pdf  
+  131  cd /Users/Nikita/Desktop/Lingvistik/4\ semester/Sprog\ gennem\ tiden/Literature/2\)\ 8\:2\ Sound\ change/Hock\ \(1991\).pdf 
+  132  cd desktop
+  133  cd /Users/Nikita/Desktop/Lingvistik/4\ semester/Sprog\ gennem\ tiden/Literature/2\)\ 8\:2\ Sound\ change/Hock\ \(1991\).pdf 
+  134  cd /Users/Nikita/Desktop/Sprog\ gennem\ tiden\ alias 
+  135  cd /Users/Nikita/Desktop/Sprog\ gennem\ tiden 
+  136  cd /Users/Nikita/Desktop/Sprog\ gennem\ tiden/Literature/2\)\ 8\:2\ Sound\ change 
+  137  ocrmypdf Hock\ \(1991\).pdf Hock1991OCR.pdf
+  138  -h
+  139  ocrmypdf
+  140  ocrmypdf Hock\ \(1991\).pdf -l eng --sidecar Hock1991OCR-pdf
+  141  ocrmypdf Hock\ \(1991\).pdf -l eng --sidecar Hock1991OCR.pdf
+  142  ocrmypdf -l eng --sidecar Hock\ \(1991\).pdf Hock1991OCR.pdf
+  143  ocrmypdf -l eng --sidecar Hock\ \(1991\).pdf Hock1991nyOCR.pdf
+  144  ocrmypdf -l eng --sidecar Hock\ \(1991\).pdf Hock1991ny_OCR.pdf
+  145  cddesktop
+  146  cd desktop
+  147  cd/Users/Nikita/Desktop/Sprog\ gennem\ tiden 
+  148  cd /Users/Nikita/Desktop/Sprog\ gennem\ tiden 
+  149  cd/Users/Nikita/Desktop/Sprog\ gennem\ tiden/Literature/9\)\ 29\:3\ Grammaticalisation\ I 
+  150  cd /Users/Nikita/Desktop/Sprog\ gennem\ tiden/Literature/9\)\ 29\:3\ Grammaticalisation\ I 
+  151  ocrmypdf Hopper\ Traugott\ \(2003\)\ grammaticalisation.pdf Hopper&Traugott_ocr.pdf
+  152  ocrmypdf -f Hopper\ Traugott\ \(2003\)\ grammaticalisation.pdf Hopper&Traugott_ocr.pdf
+  153  cd/Users/Nikita/Desktop/Sprog\ gennem\ tiden/Literature/12\)\ 26\:4\ Statistical\ Methods 
+  154  cd/Users/Nikita/Desktop/Sprog\ gennem\ tiden/Literature 
+  155  cd desktop
+  156  /Users/Nikita/Desktop/Sprog\ gennem\ tiden/Literature/12\)\ 26\:4\ Statistical\ Methods 
+  157  ocrmypdf gray-et-al_2007.pdf gray_et_al2007_OCR.pdf
+  158  cd/Users/Nikita/Desktop/Sprog\ gennem\ tiden/Literature/12\)\ 26\:4\ Statistical\ Methods 
+  159  cd/Users/Nikita/Desktop/Sprog\ gennem\ tiden 
+  160  cd dekstop
+  161  ocrmypdf gray_et_al_2007.pdf gray_et_al_2007_OCR.pdf
+  162  cd desktop
+  163  cd /Users/Nikita/Desktop/Sprog\ gennem\ tiden/Literature/13\)\ 3\:5\ Conclusions 
+  164  ocrmypdf -s  mcmahon_mcmahon_2008.pdf mcmahon_mcmahonOCR.pdf
+  165  ocrmypdf -h
+  166  cd desktop
+  167  cd/Users/Nikita/Desktop/Sprog\ gennem\ tiden/Exam/Artikler 
+  168  cd /Users/Nikita/Desktop/Sprog\ gennem\ tiden/Exam/Artikler 
+  169  ocrmypdf Gobbo\ -\ 2015\ -\ Machine\ Translation\ as\ a\ Complex\ System\ The\ Role\ .pdf Gobbo_machinetranslations_ocr.pdf
+  170  cd desktop
+  171  cd/Users/Nikita/Desktop/Sprog\ gennem\ tiden\ eksamen/Artikler 
+  172  cd /Users/Nikita/Desktop/Sprog\ gennem\ tiden\ eksamen/Artikler 
+  173  ocrmypdf -f Lyons-1991\ Natural\ language\ and\ universal\ grammar.pdf Lyons_1991_natural_languages_ocr.pdf
+  174  CD desktop
+  175  cd desktop
+  176  cd /Users/Nikita/Desktop/Tistu 
+  177  ocrmypdf -l dan -d --remove-background tistu_3-pdf
+  178  ocrmypdf -l dan -d --remove-background tistu_3-pdf tistu_3_ocr.pdf
+  179  cd desktop
+  180  cd /Users/Nikita/Desktop/Tistu 
+  181  ocrmypdf -l dan -d --remove-background tistu_3-pdf tistu_3_ocr.pdf
+  182  ocrmypdf -l dan -d --remove-background forside39.pdf forside_39_ocr.pdf
+  183  cd desktop
+  184  cd/Users/Nikita/Desktop/Tistu 
+  185  cd /Users/Nikita/Desktop/Tistu 
+  186  ocrmypdf -l dan forside39.pdf forside_39_ocr.pdf
+  187  ocrmypdf -l dan -d forside_39_ocr.pdf forside_39_ocr_ret.pdf
+  188  ocrmypdf -l dan -d -f forside_39_ocr.pdf forside_39_ocr_ret.pdf
+  189  ocrmypdf -l dan h
+  190  ocrmypdf -l dan --remove-background forside39.pdf forside_39_br.pdf
+  191  chsh -s /bin/zsh
+  192  cd desktop
+  193  cd/Users/Nikita/Desktop/Tistu 
+  194  cd /Users/Nikita/Desktop/Tistu 
+  195  -h
+  196  ocrmypdf -h
+  197  ocrmypdf -l dan --remove-background 
+  198  ocrmypdf -l dan --remove-background forside39.pdf 1_39_ocr_rem.pdf
+  199  cd desktop
+  200  cds /Users/Nikita/Desktop/Tistu 
+  201  cd /Users/Nikita/Desktop/Tistu 
+  202  ocrmypdf -l dan -c forside39.pdf 39_c_ocr.pdf
+  203   brew install unpaper
+  204  ocrmypdf  brew install unpaper
+  205  python3 -m pip --version
+  206  cd desktop
+  207  ocrmypdf -l dan --remove-background 42_120.pdf 42_120_ocr.pdf
+  208  cd desktop
+  209  cd /Users/Nikita/Desktop/Tistu 
+  210  ocrmypdf -l dan 42_120.pdf 42_120_ocr.pdf
+  211  ocrmypdf -l dan -f --remove-background 42_120_ocr.pdf 42_120_ocr_rb.pdf
+  212  from ocrmypdf import hookimpl
+  213  from PIL import Image
+  214  from pathlib import Path
+  215  @hookimpl
+  216  def filter_page_image(page: 'PageContext', image_filename: Path) -> Path:
+  217      with Image.open(image_filename) as im:
+  218          im = im.convert('1')
+  219          im.save(image_filename)
+  220  cd desktop
+  221  cd /Users/Nikita/Desktop/Tistu 
+  222  ocrmypdf -l dan 42_120_bw.pdf 42_120_bw_ocr.pdf
+  223  ocrmypdf -l dan forside39_bw.pdf 39_bw_ocr.pdf
+  224  ocrmypdf -l dan extras_bw.pdf extras_bw_ocr.pdf
+  225  ocrmypdf -s -d 39_bw_ocr.pdf 39_bw_ocr_d.pdf
+  226  cd desktop
+  227  cd /Users/Nikita/Desktop/Tistu 
+  228  ocrmypdf -l dan -f -d extras_bw_ocr.pdf extras_bw_ocr_d.pdf
+  229  ocrmypdf -l dan -f -d 39_bw_ocr.pdf 39_bw_ocr_d.pdf
+  230  ocrmypdf -l dan -f -d 42_120_bw_ocr.pdf 42_120_bw_ocr_d.pdf
+  231  cd/Users/Nikita/Desktop/Cultural\ Datascience 
+  232  cd desktop
+  233  cd/Users/Nikita/Desktop/Cultural\ Datascience 
+  234  cd /Users/Nikita/Desktop/Cultural\ Datascience 
+  235  cd /Users/Nikita/Desktop/Cultural\ Datascience/WEEK\ 35 ocrmypdf Stewart\ Lowndes\ -Our\ path\ to\ better\ science\ in\ less\ time\ using\ open\ data\ science\ tools\ 2017.pdf 
+  236  cd /Users/Nikita/Desktop/Cultural\ Datascience ocrmypdf -f Stewart\ Lowndes\ -Our\ path\ to\ better\ science\ in\ less\ time\ using\ open\ data\ science\ tools\ 2017.pdf Stewart_Lowndes_our_path_to_better_science_2017_OCR.pdf
+  237  cd desktop
+  238  cd /Users/Nikita/Desktop/Cultural\ Datascience/WEEK\ 35 
+  239  ocrmypdf -f Stewart\ Lowndes\ -Our\ path\ to\ better\ science\ in\ less\ time\ using\ open\ data\ science\ tools\ 2017.pdf Stewart_Lowndes_ocr.pdf
+  240  pkgutil --check-signature R-4.2.1.pkg
+  241  /var/folders/xc/lhrz5kzd6z57n6n_8jmxczv00000gn/T//Rtmpj0Trd5/downloaded_packages
+  242  bash
+  243  echo $SHELL
+  244  ls
+  245  pwd
+  246  cd desktop
+  247  clear
+  248  ls -F
+  249  --help
+  250  help
+  251  ls help
+  252  ls --hep
+  253  ls --help
+  254  man ls
+  255  clear
+  256  ls -F Desktop
+  257  ls -F Desktop
+  258  ls Desktop
+  259  ls -F
+  260  echo $SHELL
+  261  bash
+  262  echo $SHELL
+  263  cd desktop
+  264  ls
+  265  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  266  brew help
+  267   echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/Nikita/.bash_profile
+  268      eval "$(/opt/homebrew/bin/brew shellenv)"
+  269  brew help
+  270  brew commands
+  271  cp -r thesis2 ./thesis
+  272  cp -r thesis thesis_backup
+  273  cd desktop
+  274  cd shell-lesson-data/
+  275  cp -r thesis/ thesis_backup
+  276  ls thesis_backup/
+  277  rm -r thesis_backup/
+  278  ls
+  279  ls man
+  280  pwd
+  281  cd exercise-data/
+  282  ls
+  283  ls *t*ane.pdb
+  284  cd proteins
+  285  ls *t*ane.pdb
+  286  ls *t?ne.*
+  287  ls *t??ne.*
+  288  ls ethane.*
+  289  ls *ethane.pdb
+  290  clear
+  291  pwd
+  292  ls -F
+  293  /sublime\ Text
+  294  cs desktop
+  295  cd desktop
+  296  ls
+  297  pwd
+  298  clear
+  299  ls
+  300  man ls
+  301  ls
+  302  bash
+  303  szh
+  304  ls Desktop
+  305  chsh -s /bin/zsh
+  306  echi $SHELL
+  307  echo $SHELL
+  308  bash
+  309  chsh -s /bin/zsh
+  310  chsh -s /bin/zsh
+  311  git config --global user.email "201906799@post.au.dk" 
+  312  git status
+  313  git config --global user.name "NiGitaMyrGit"
+  314  git config --list
+  315  clear
+  316  cd ~/Desktop
+  317  mkdir planets
+  318  cd planets
+  319  git init
+  320  ls -a
+  321  git status
+  322  git config --global user.name "NiGitaMyrGit"
+  323  nano marst.txt
+  324  cat mars.txt
+  325  git status
+  326  git add mars.txt
+  327  git status
+  328  git commit -m "Start notes on Mars as a base"
+  329  nano mars.txt 
+  330  git add mars.txt
+  331  git commit -m "I have written two new sentences to text"
+  332  git log
+  333  history
+  334  history > commandhistory.txt
+  335  wc commanhistory.txt
+  336  wc commandhistory.txt 
+  337  clear
+  338  pwd
+  339  mkdir results
+  340  touch a.dat b.dat results/a.out results/b.out
+  341  ls
+  342  nano .gitignore
+  343  git add .gitignore
+  344  git commit -m "ignore data files and the results folder"
+  345  git log
+  346  git status
+  347  git log
+  348  q
+  349  git log --
+  350  gitlog --oneline
+  351  gitlog --oneline
+  352  gitlog -oneline
+  353  gitlog --oneline
+  354  gitlog--oneline
+  355  gitlog --oneline
+  356  git diff mars.txt
+  357  git diff
+  358  git diff [mars.txt]
+  359  git log --oneline
+  360  git diff 2d62092 e78eb14
+  361  git diff e78eb14 2d62092
+  362  git status
+  363  git add
+  364  git add .
+  365  nan venus.txt
+  366  nano venus.txt
+  367  git add -A
+  368  git commit -m "started notes on Venus"
+  369  git status
+  370  git log --oneline
+  371  nano marst.txt
+  372  nano mars.txt
+  373  git commit -m 'added notes to mars'
+  374  gitlog --online
+  375  gitlog --oneline
+  376  git log --oneline
+  377  git commit -m "added notes to mars text"
+  378  git chechkout HEAD~1 mars.txt
+  379  git checkout HEAD~1 mars.txt
+  380  cat mars.txt
+  381  nano mars.txt
+  382  git add -A
+  383  git commit -m "added notes on mars.txt"
+  384  git status
+  385  git log --oneline
+  386  clear
+  387  cd ..
+  388  pwd
+  389  git clone https://github.com/Digital-Methods-HASS/201906799_Myrting_Nikita.git
+  390  git clone https://github.com/Digital-Methods-HASS/201906799_Myrting_Nikita.git
+  391  https://github.com/Digital-Methods-HASS/201906799_Myrting_Nikita.gi
+  392  clear
+  393  git clone https://github.com/Digital-Methods-HASS/201906799_Myrting_Nikita.git
+  394  cd 201906799_Myrting_Nikita/
+  395  ls
+  396  mkdir Homework
+  397  ls
+  398  git push
+  399  cd~
+  400  cd ~
+  401  ls -al ~/.ssh
+  402  ls -al ~/.ssh
+  403  ls -al ~/.ssh
+  404  ssh-keygen -t ed25519 -C "201906799@post.au.dk"
+  405  history -> ssh-key_history.txt
+  406  history -> ssh_key_history.txt
+  407  history -> ssh_key1_history.txt
+  408  history > ssh_key1_history.txt
+  409  open ~/.ssh/config
+  410  touch ~/.ssh/config
+  411  open ~/.ssh/config
+  412  ssh-add -K ~/.ssh/id_ed2519
+  413  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  414  eval "$(ssh-agent -s)"
+  415  > Agent pid 59566
+  416  eval "$(ssh-agent -s)"
+  417  open ~/.ssh/config
+  418  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  419  pbcopy < ~/.ssh/id_ed25519.pub
+  420  git status
+  421  git clone git@github.com:Digital-Methods-HASS/201906799_Myrting_Nikita.git
+  422  ls
+  423  pwd
+  424  cd Desktop/201906799_Myrting_Nikita
+  425  git status
+  426  git add
+  427  git add .
+  428  git commit -m "uploading a test screenshot"
+  429  git push
+  430  git push
+  431  git status
+  432  history -> pushgithistory_1-9-2022.txt
+  433  history > commandhistory.txt
