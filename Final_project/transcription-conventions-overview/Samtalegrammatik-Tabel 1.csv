@@ -1,0 +1,27 @@
+sign;description;meaning
+:;Colon;Non-phonemic prolongation of the preceding sound
+_;Underlining;Stress. The more underlining, the more stress
+·;Raised dot;Indicates that the following sounds is spoken on inbreath
+"f[å dem]
+ [ja:↗ ]";Square parenthesis;Indicates start and end of overlapping speech
+↘;Diagonal downwards arrow;After an utterance, indicates falling final intonation
+→;Straight arrow;After utterance, indicates level final intonation
+↗;Diagonal upwards arrow;After utterance, indicates rising final intonation
+↑;Up arrow;Indicates that the following syllable is pronounced with a extra high tone
+↓;Down arrow;Indicates that the following syllable is pronounced with an extra low tone
+▔ady▔;Topscore;Surrounds high-pitched speech
+▁hva▁;Underscore;Surrounds low-pitched speech
+(.);Period in parenthesis;Micropause: 0.2 seconds or less
+(0.3);Number in parenthesis;Pauses: Indicated in seconds with one decimal
+lilleb-;Hyphen;Indicates audible cut-off
+☺;Smiley;Surrounds smiley voice
+§;Paragraph symbol;Surrounds extra clear articulation
+>ord<;Arrow parenthesis pointed towards the speech;Surrounds fast speech
+<sætte>;Arrow parenthesis pointed away from speech;Surrounds slow speech
+° °;Degree symbol;med lav lydstyrke
+HALLO;Capital letters;Indicates that speaking at a loud volume
+*;Askerisk;Surrounds speech with creaky voice
+=;;Equals sign
+(x x) (word);Parentheses with x's;Indicates speech that cannot be deciphered, or where the transcription is dubious
+{};"Curly brackets
+mmer";Indicates gesture and gaze

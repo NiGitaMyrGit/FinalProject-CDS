@@ -1,0 +1,54 @@
+sign;description
+⇗;rising to high
+↗;rising to mid  
+→;level
+↘;falling to mid  
+⇘;falling to low  
+∞;unmarked ending  
+≋;continuation
+∙;inhalation
+≈;latching in the end of first line
++≈;latching in the beginning of continued line
+≡ ;uptake
+⌈;top begin overlap
+⌉;top end overlap
+⌊;bottom begin overlap
+⌋;bottom end overlap
+∆;∆faster∆
+∇;∇slower∇
+⁎;⁎creaky⁎
+⁇;⁇unsure⁇
+°;"°softer°;  "
+HALLO;louder
+▁;▁low pitch▁
+▔;▔high pitch▔
+☺;☺smile voice☺
+♋;♋breathy voice♋ marker
+∬;∬whisper∬
+Ϋ;ΫyawnΫ
+∮;∮singing∮
+§;§precise§
+∾;constriction∾
+↻;↻pitch reset
+Ἡ;laugh in a word
+„;Tag or sentence final particle
+‡;‡ Vocative or summons
+̣;Arabic dot diacritic
+ʰ;Arabic raised h
+̄;Stress
+ʔ;Glottal stopʔ
+ʕ;Reverse glottalʕ
+̌;Caron
+ˈ;raisedˈ stroke  
+ˌ;loweredˌ stroke  
+ː;length on the %pho line
+‹;‹begin phono group› marker
+›;‹end phono group› marker
+〔;〔begin sign group〕
+〕;〔end sign group〕
+…;%pho missing word
+̲;und̲e̲r̲line
+“;open “quote”
+”;close “quote”
+≠;≠row
+↫;↫r-r↫rabbit

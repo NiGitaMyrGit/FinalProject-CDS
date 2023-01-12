@@ -1,0 +1,67 @@
+samgramconverter is a user-friendly script intended Conversation Analysts
+who wish to convert common signs and symbols in transcripts that uses either:
+a Jefferson (2004) notational system or symbols used in
+SamtaleBank Danish Sam2 Corpus of transcripts (https://samtalebank.talkbank.org/)
+
+*** HOW TO INSTALL AND LOCATE THE SCRIPTS ***
+
+FOR WINDOWS USERS: 
+1) If you use a windows operating system you will need to download bash.
+You can follow this instuction from the Software Carpenty website: 
+https://swcarpentry.github.io/shell-novice/setup.html
+
+2) Place the script "samgramconverter.sh" where you wish to locate it,
+preferably in an easily accesible folder/directory
+
+3) in your File Explorer you can click the path with a yellow folder icon
+often looking somthing like this: yellow folder (icon) > This PC > Documents
+
+FOR MAC USERS: 
+1) Locate and open Terminal either by
+Going to Finder -> Go menu -> Utilities -> Terminal
+Or simply search for it in the 'Spotlight'
+When opened type bash
+after writing cd you can simply drag the folder to the terminal window
+
+2) Place the script "samgramconverter.sh" where you wish to locate it,
+preferably in an easily accesible folder/directory
+
+3) In your terminal you need to write cd and provide the path to the folder
+where the script is located
+
+*** RUNNNING THE SCRIPT ***
+1) Place your desired transcription in the same folder as the script,
+you can always move it after the conversion.
+2) for first time use write: chmod +x. After this you will not need to rund this command again.
+3) write: ./samgramconverter.sh
+and hit enter.
+4)Follow the instructions from the script,
+	When typing in the name of your transcriptfile you must provide 
+	the entire filename including the format extension
+		Tested and accepted formats are .txt and .cha, .docx is not an accepted fileformat 
+		but it can be saves as plain text instead!
+Hit enter
+a new file has been placed in the same folder as the other one with replaced symbols. 
+
+The symbols in the Jefferson (2004) or Samtalebanken column
+will be replaced with the adjacent symbol in the samtalegrammatik.dk column
+
+Jefferson (2004)	Samtalebanken	samtalegrammatik.dk
+							⌈				[
+							⌊				[
+							⌉				]
+							⌋				]
+	.						⇘				↘
+	,										→
+	?						⇗				↗
+	£										☺
+ 						   ∆ ∆ 			   > <
+						   ∇ ∇			   < >				
+							≋ 				=
+							≋+				=
+							≈				deleted
+							≈+				deleted
+						  ?? ??			   ( )
+							Ἡ	     	   (h)
+(( ))									   { }
+

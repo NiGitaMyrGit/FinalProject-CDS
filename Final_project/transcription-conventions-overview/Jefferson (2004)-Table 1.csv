@@ -1,0 +1,50 @@
+sign;description;meaning
+;;indicates when a part of a word i not pronounced
+[;a left bracket;point in  a speakers talk which the current speaker’s talk is overlapped by the talk of another (it is to be understood that the next speakers line i listede directly below but without indent)
+];a right bracket;used to indicate termination of overlapping talk
+=;equal sign;indicate no break or gap in an ongoing piece of talk 
+= =;a pair of equal sign;one at the end of one line and one of the beginning of the next indicate no break between the two lines 
+(0.0);Numbers in parentheses;elapsed time by tenth of seconds 
+( . );;brief interval (± tenth of a second) within or bwtween utterances  
+;;
+"  ⏉
+(0.0)
+  ⏊";numbers in parentheses bracketing several lines of transcript ;time elapsed between end of sound/utterance in first bracketed line with the start of sound/utterance in the last bracketed line in a transcript. 
+_;underscoring;indicates some form of stress, via pitch and/or amplitude, a short underscore indicates lighter stress than does a long underscore
+::;colons;indicate prolongation of the immediately prior sound. The longer the colon row, the longer the prolongation.
+:_;combination of underscore and colon;indicate intonation contours. 
+wo:rd;letter followed by a colon;the sound represented by the letter is ‘punched up’ indicating a up-to-down contour
+wo:rd;letter followed by underscored colon;sound at point of the colon is ‘punched up’, indicating a down-to-up contour
+wo:rd;underscoring consonant prior to vowel preceding colon ;entire syllables and all syllables hereafter are ‘punched up’ i indicating no mid-syllable shift in pitch
+↑;up-arrow;indicates shift into especially high pitch
+↓ ;down-arrow;indicates shift into especially low pitch
+.,??;punctuation markers;indicates utterance final intonation, ‘the usual’ intonation
+.;dot;Fall to low
+,;comma;Even intonation
+?;question mark;Rise to high
+?;italicized question mark;indicates a weaker rise than that indicated by a standard question-mark 
+WORD;upper case;indicates especially loud sounds relative to the surrounding talk
+◦ word◦ ;degree signs;bracketing an utterance or utterance-part indicates that the sounds are softer than the surrounding talk. 
+*;asterisk;in some transcript percussive non-speech sounds eg. a fist thumping the table
+*;asterisk;in non-computer transcripts indicates creaky voice 
+t*, d*;asterisk following a consonant;serves as a ‘hardener’, * used in early computer transcripts, replaces sub or superimposed dots 
+t, d;bold face consonant;serves as ‘hardener,  bold-faced consonant  replaces single sub- superimposed dot 
+;;works as hardener and shortener while alsos indicating precise articulation
+whord;italicized ‘h’;when appearing inside words with silent h such as what, where, which, but are pronounced as if the ‘h’ was sounded
+word;italicized letter;unvoiced production 
+<word;prepositioned left carat;indicated hurried start eg. a compressed onset of an utterance, often occurs after a self repair
+word<;post-postitioned left carat ;indicates a sudden stop  in a fully completed word
+-;dash;indicates a cut-off 
+> <;right/left carats;bracketing an utterance or utterance-part indicate that the talk is speeded up compared to the surrounding talk
+< >;left/right carats;bracketing an utterance or utterance-part indicate that the talk is speeded up compared to the surrounding talk
+·hhh;a dot prefixed row of h’s;indicates inbreath
+hhh;row of h’s;indicates outbreath
+wohhrd;a row of h’s within a word;indicates breathiness
+(h);parenthesized ‘h’ ;indicates plosiveness assocated with laughter, crying, breathessness etc.
+£;pound-sterling sign;indicates a certain quality of voice which conveys ‘suppressed laughter’ 
+wghword;a ‘gh’ stuck in a word;indicates gutturalness, in some  transcripts itlicized in some not
+( );empty parentheses;indicates the transcriber was unable to get what was said, the lenght of parenthesized space reflects the lenght of the ungotten talk 
+(word);parenthesized words and speaker;designations are especially dubious 
+(blerf);parenthesized nonsens syllables;are sometimes provided to give an indication o various features of the ungotten material 
+(Ø);a nul sign; in the place of a speaker postitstion, indicates that there may be talk either talk but that it could also be ambient noise 
+((  )) ;double parentheses;contain the transcribers descriptions 
